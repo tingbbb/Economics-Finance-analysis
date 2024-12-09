@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  8 19:46:43 2024
 
-@author: tingb
-"""
 
 import pandas as pd
 import numpy as np
